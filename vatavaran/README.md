@@ -2,7 +2,7 @@
 
 * This Weather Application was created using React and the weather information was fetched using openWeather API. 
 * This application allows user to view the weather of different regions by searching cities/regions.
-* The App also display's the Weather Forecast of the upcoming day's with other details like Humidity, wind, wtc.
+* The App also display's the Weather Forecast of the upcoming day's with other details like Humidity, wind, etc.
 
 # Getting Started with Create React App
 
