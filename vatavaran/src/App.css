@@ -1,0 +1,9 @@
+.container{
+  max-width: 1080px;
+  margin: 20px auto;
+}
+.head{
+  text-align: center;
+  font-size: 25px;
+  color: aliceblue;
+}
