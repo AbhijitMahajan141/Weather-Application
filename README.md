@@ -1,2 +1,3 @@
 # Weather-Application
-This weather application is created using React and the Weather information is fetched using the openWeather API. This Application allows the user to view the weather of any region in the world.  
+* Weather application built in React.js and openWeather API for fetching realtime Weather of different regions. 
+* This Application allow's the user to view the weather of any region in the world.
